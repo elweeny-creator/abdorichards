@@ -1,0 +1,290 @@
+{
+  "version": "1.0",
+  "created": "2026-01-09",
+  "description": "Comprehensive topic taxonomy for PT Entrepreneurship knowledge base",
+  "categories": {
+    "01-starting-your-practice": {
+      "name": "Starting Your Practice",
+      "description": "Business formation, initial setup, location decisions, getting first clients",
+      "keywords": [
+        "start", "starting", "started", "beginning", "launch", "launching", "open", "opening",
+        "llc", "s-corp", "s corp", "corporation", "sole proprietor", "business entity", "ein",
+        "first client", "first patient", "getting started", "new practice", "new clinic",
+        "business plan", "startup", "start-up", "initial investment", "capital",
+        "location", "lease", "rent space", "clinic space", "office space", "square feet",
+        "build out", "build-out", "commercial lease", "retail space",
+        "equipment", "treatment table", "ultrasound", "e-stim", "supplies",
+        "what do i need", "how do i start", "advice for starting", "first year",
+        "going solo", "leaving my job", "quit my job", "transition", "make the leap"
+      ],
+      "exclude_keywords": ["starting salary", "starting pay"]
+    },
+    "02-pricing-revenue-compensation": {
+      "name": "Pricing, Revenue & Compensation",
+      "description": "Session pricing, package rates, salary discussions, revenue strategies",
+      "keywords": [
+        "price", "pricing", "rates", "rate", "charge", "charging", "cost", "fee", "fees",
+        "salary", "salaries", "pay", "wage", "wages", "compensation", "income", "earnings",
+        "per visit", "per session", "hourly rate", "annual salary", "per hour",
+        "package", "packages", "bundle", "membership", "subscription",
+        "revenue", "profit", "margin", "gross", "net income",
+        "raise prices", "price increase", "discount", "sliding scale",
+        "what to charge", "how much", "going rate", "market rate", "fair price",
+        "cash pay", "cash based", "cash-based", "out of pocket", "self pay", "self-pay",
+        "reimbursement rate", "payout", "paid per", "make per", "earn per"
+      ]
+    },
+    "03-insurance-billing-reimbursement": {
+      "name": "Insurance, Billing & Reimbursement",
+      "description": "Medicare, Medicaid, private insurance, billing processes, coding, claims",
+      "keywords": [
+        "insurance", "insured", "insurer", "payer", "payor",
+        "medicare", "medicaid", "tricare", "workers comp", "workers' comp", "work comp",
+        "blue cross", "bcbs", "united", "unitedhealthcare", "aetna", "cigna", "humana",
+        "anthem", "kaiser", "optum",
+        "billing", "biller", "bill", "billed", "claims", "claim", "denied", "denial",
+        "appeal", "appealing", "prior auth", "authorization", "pre-auth",
+        "cpt", "cpt code", "97110", "97140", "97530", "97542", "g-code", "modifier",
+        "coding", "codes", "icd-10", "diagnosis code",
+        "credentialing", "credentialed", "paneled", "in-network", "out of network", "oon",
+        "ehr", "emr", "clearinghouse", "era", "eob", "remittance",
+        "cash vs insurance", "drop insurance", "insurance based", "insurance-based",
+        "hybrid", "hybrid model", "transition to cash"
+      ]
+    },
+    "04-marketing-client-acquisition": {
+      "name": "Marketing & Client Acquisition",
+      "description": "Getting patients, referrals, advertising, social media, physician relationships",
+      "keywords": [
+        "marketing", "market", "advertise", "advertising", "ads", "ad spend",
+        "referral", "referrals", "refer", "referring", "physician referral", "doctor referral",
+        "client", "clients", "patient acquisition", "new patients", "get patients",
+        "social media", "facebook", "instagram", "linkedin", "tiktok", "youtube",
+        "google", "seo", "google ads", "ppc", "pay per click",
+        "website", "web presence", "online presence", "reviews", "google reviews", "yelp",
+        "networking", "network", "community", "outreach", "visibility",
+        "branding", "brand", "logo", "business cards",
+        "word of mouth", "reputation", "testimonial", "testimonials",
+        "gym", "gyms", "crossfit", "fitness", "trainer", "trainers", "coaches",
+        "doctor", "doctors", "physician", "physicians", "md", "orthopedic", "ortho",
+        "direct access", "self-referral", "without referral"
+      ]
+    },
+    "05-operations-systems-tools": {
+      "name": "Operations, Systems & Tools",
+      "description": "EHR/EMR, scheduling, documentation, software, equipment, daily operations",
+      "keywords": [
+        "ehr", "emr", "electronic health record", "electronic medical record",
+        "webpt", "clinicient", "therabill", "jane app", "jane", "prompt", "optimis",
+        "kareo", "practice fusion", "drchrono", "simplepractice", "practice better",
+        "scheduling", "schedule", "appointment", "appointments", "booking", "book",
+        "documentation", "document", "notes", "note", "soap", "daily note", "eval",
+        "software", "app", "platform", "system", "systems", "tool", "tools",
+        "workflow", "process", "processes", "efficiency", "automate", "automation",
+        "cancellation", "no show", "no-show", "cancellations", "policy",
+        "intake", "forms", "paperwork", "consent", "hipaa form",
+        "equipment", "supplies", "table", "tables", "modalities"
+      ]
+    },
+    "06-staffing-hiring-team": {
+      "name": "Staffing, Hiring & Team",
+      "description": "Hiring employees, contractors, PTAs, front desk, team management",
+      "keywords": [
+        "hire", "hiring", "hired", "recruit", "recruiting", "recruitment",
+        "employee", "employees", "staff", "staffing", "team", "team member",
+        "pta", "ptas", "physical therapist assistant", "aide", "tech", "technician",
+        "front desk", "receptionist", "admin", "administrator", "office manager",
+        "contractor", "1099", "w2", "w-2", "independent contractor", "ic",
+        "salary", "offer", "benefits", "pto", "vacation", "health insurance",
+        "job posting", "job description", "interview", "interviewing",
+        "train", "training", "onboard", "onboarding",
+        "manage", "managing", "management", "supervise", "supervision",
+        "fire", "firing", "let go", "terminate", "termination",
+        "culture", "retention", "turnover", "morale"
+      ]
+    },
+    "07-clinical-practice-specialties": {
+      "name": "Clinical Practice & Specialties",
+      "description": "Treatment approaches, specialty niches, patient outcomes, clinical questions",
+      "keywords": [
+        "treatment", "treat", "treating", "intervention", "technique", "techniques",
+        "manual therapy", "manual", "hands on", "hands-on", "mobilization", "manipulation",
+        "dry needling", "needling", "idn", "trigger point",
+        "pelvic floor", "pelvic health", "pelvic", "women's health", "womens health",
+        "sports", "sport", "athletic", "athlete", "athletes", "performance",
+        "orthopedic", "ortho", "musculoskeletal", "msk",
+        "neuro", "neurological", "stroke", "parkinson", "vestibular", "concussion",
+        "pediatric", "peds", "children", "kids",
+        "geriatric", "elderly", "older adults", "falls", "balance",
+        "aquatic", "pool", "hydrotherapy",
+        "exercise", "exercises", "hep", "home exercise", "strengthening",
+        "diagnosis", "diagnose", "assessment", "evaluate", "evaluation",
+        "outcome", "outcomes", "progress", "prognosis", "discharge",
+        "chronic pain", "acute", "post-op", "post op", "surgery"
+      ]
+    },
+    "08-legal-compliance-regulations": {
+      "name": "Legal, Compliance & Regulations",
+      "description": "Malpractice insurance, HIPAA, ADA, state regulations, contracts, liability",
+      "keywords": [
+        "legal", "law", "lawyer", "attorney", "lawsuit", "sue", "sued", "litigation",
+        "liability", "malpractice", "negligence", "claim", "insurance claim",
+        "hpso", "proliability", "cm&f", "liability insurance", "professional liability",
+        "hipaa", "privacy", "phi", "protected health information", "breach",
+        "ada", "americans with disabilities", "accessibility", "accommodation",
+        "compliance", "compliant", "regulation", "regulations", "regulatory",
+        "license", "licensing", "licensure", "board", "state board", "compact",
+        "npi", "ptan", "medicare enrollment",
+        "contract", "contracts", "agreement", "non-compete", "noncompete", "non compete",
+        "incorporate", "incorporation", "llc", "s-corp", "business structure",
+        "audit", "audited", "documentation requirements", "fraud"
+      ]
+    },
+    "09-finance-taxes-accounting": {
+      "name": "Finance, Taxes & Accounting",
+      "description": "Bookkeeping, tax strategies, retirement, loans, financial planning",
+      "keywords": [
+        "tax", "taxes", "taxation", "irs", "deduction", "deductions", "write off", "write-off",
+        "cpa", "accountant", "accounting", "bookkeeper", "bookkeeping", "quickbooks",
+        "profit", "loss", "p&l", "profit and loss", "income statement", "balance sheet",
+        "expense", "expenses", "overhead", "cost of goods", "cogs",
+        "retirement", "401k", "401(k)", "sep ira", "sep-ira", "simple ira", "roth",
+        "loan", "loans", "sba", "line of credit", "financing", "capital",
+        "budget", "budgeting", "cash flow", "savings", "reserve",
+        "quarterly", "estimated taxes", "payroll", "payroll taxes",
+        "business expense", "mileage", "home office", "deductible",
+        "financial advisor", "financial planning", "invest", "investing"
+      ]
+    },
+    "10-growth-scaling-exit": {
+      "name": "Growth, Scaling & Exit",
+      "description": "Expanding practice, multiple locations, selling business, partnerships",
+      "keywords": [
+        "grow", "growing", "growth", "expand", "expanding", "expansion", "scale", "scaling",
+        "second location", "multiple locations", "new location", "branch", "satellite",
+        "franchise", "franchising",
+        "partner", "partnership", "buy in", "buy-in", "equity",
+        "sell", "selling", "exit", "exit strategy", "succession", "retire", "retirement",
+        "valuation", "value", "worth", "multiple", "ebitda",
+        "acquire", "acquisition", "merge", "merger", "consolidation",
+        "revenue growth", "patient volume", "capacity", "utilization",
+        "hire more", "add providers", "bring on", "second pt", "third pt",
+        "diversify", "diversification", "add services", "new service"
+      ]
+    },
+    "11-work-life-mindset-burnout": {
+      "name": "Work-Life Balance, Mindset & Burnout",
+      "description": "Avoiding burnout, time management, entrepreneurial mindset, boundaries",
+      "keywords": [
+        "burnout", "burned out", "burnt out", "exhausted", "overwhelmed", "stressed",
+        "work life", "work-life", "balance", "boundaries", "boundary",
+        "time off", "vacation", "pto", "sick", "maternity", "paternity",
+        "schedule", "hours", "working hours", "weekends", "evenings",
+        "mindset", "motivation", "motivated", "imposter", "imposter syndrome",
+        "self care", "self-care", "mental health", "therapy", "counseling",
+        "productivity", "efficient", "efficiency", "time management",
+        "delegate", "delegating", "outsource", "outsourcing",
+        "passion", "purpose", "fulfillment", "satisfied", "happiness",
+        "frustrat", "difficult", "challenge", "struggle", "struggling",
+        "advice", "encouragement", "support", "vent", "venting"
+      ]
+    },
+    "12-telehealth-virtual-care": {
+      "name": "Telehealth & Virtual Care",
+      "description": "Virtual visits, telehealth platforms, regulations, billing for telehealth",
+      "keywords": [
+        "telehealth", "tele-health", "telemedicine", "tele-medicine",
+        "virtual", "video", "video visit", "video call", "zoom", "doxy", "doxy.me",
+        "remote", "online", "digital health",
+        "telehealth billing", "telehealth reimbursement", "gt modifier", "95 modifier",
+        "state lines", "across state", "interstate", "compact",
+        "telehealth platform", "hipaa compliant video",
+        "hybrid telehealth", "virtual first", "in-person vs virtual"
+      ]
+    },
+    "13-mobile-home-health": {
+      "name": "Mobile PT & Home Health",
+      "description": "Mobile practice, home visits, home health agencies, travel considerations",
+      "keywords": [
+        "mobile", "mobile pt", "mobile practice", "travel", "traveling",
+        "home health", "home care", "home visit", "home visits", "house call", "house calls",
+        "in-home", "in home", "patient's home", "patients home",
+        "home health agency", "hha", "skilled nursing", "snf",
+        "mileage", "drive", "driving", "car", "vehicle", "gas",
+        "portable", "portable equipment", "travel bag",
+        "territory", "coverage area", "radius", "service area",
+        "assisted living", "alf", "memory care", "nursing home"
+      ]
+    },
+    "14-continuing-education-ceus": {
+      "name": "Continuing Education & CEUs",
+      "description": "CEU requirements, certifications, courses, specialty training, conferences",
+      "keywords": [
+        "ceu", "ceus", "continuing education", "ce", "contact hours",
+        "certification", "certified", "certificate", "credential", "credentialed",
+        "ocs", "scs", "ncs", "gcs", "wcs", "pcs", "specialist", "board certified",
+        "course", "courses", "class", "classes", "seminar", "workshop", "conference",
+        "apta", "american physical therapy", "state association",
+        "csm", "combined sections", "next", "conference",
+        "residency", "fellowship", "dpt", "tDPT", "transitional dpt",
+        "mentor", "mentorship", "mentoring",
+        "learn", "learning", "education", "training", "study", "studying",
+        "institute of", "evidence in motion", "naiomt", "maitland", "mulligan"
+      ]
+    },
+    "15-networking-community": {
+      "name": "Networking & Community",
+      "description": "Professional networking, community connections, collaborations, mentorship",
+      "keywords": [
+        "network", "networking", "connect", "connection", "connections",
+        "community", "group", "groups", "association", "organization",
+        "mentor", "mentorship", "mentee", "coach", "coaching",
+        "collaborate", "collaboration", "partner", "partnership",
+        "mastermind", "peer group", "accountability",
+        "apta", "state chapter", "local chapter", "district",
+        "facebook group", "online community", "forum",
+        "meet", "meeting", "meetup", "event", "events",
+        "referral network", "professional network", "colleagues"
+      ]
+    },
+    "16-general-qa-advice": {
+      "name": "General Q&A & Advice",
+      "description": "General questions, advice seeking, recommendations, polls, discussions",
+      "keywords": [
+        "anyone", "has anyone", "does anyone", "who has", "looking for",
+        "recommend", "recommendation", "recommendations", "suggest", "suggestion",
+        "advice", "advise", "tips", "tip", "thoughts", "opinion", "opinions",
+        "experience", "experiences", "tried", "used", "using",
+        "question", "questions", "help", "need help", "wondering",
+        "poll", "vote", "curious", "survey",
+        "what do you", "how do you", "where do you", "when do you",
+        "best", "favorite", "prefer", "preference",
+        "thank", "thanks", "appreciate", "grateful"
+      ]
+    }
+  },
+  "engagement_tiers": {
+    "high": {
+      "description": "High engagement - strong community validation",
+      "min_reactions": 10,
+      "min_comments": 15
+    },
+    "medium": {
+      "description": "Medium engagement - moderate community interest",
+      "min_reactions": 5,
+      "min_comments": 5
+    },
+    "low": {
+      "description": "Low engagement - limited community response",
+      "min_reactions": 0,
+      "min_comments": 0
+    }
+  },
+  "date_ranges": {
+    "2022": "May 2022 - December 2022",
+    "2023": "January 2023 - December 2023",
+    "2024": "January 2024 - December 2024",
+    "2025": "January 2025 - December 2025",
+    "2026": "January 2026 - Present"
+  }
+}

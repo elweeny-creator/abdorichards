@@ -1,0 +1,104 @@
+{
+  "generated": "2026-01-09T01:25:03.472158",
+  "total_packs": 9,
+  "packs": [
+    {
+      "name": "business-foundations",
+      "description": "Starting, pricing, and growing your PT practice",
+      "posts": 1350,
+      "jsonl_size_mb": 2.99,
+      "md_size_mb": 1.22,
+      "topics": [
+        "01-starting-your-practice",
+        "02-pricing-revenue-compensation",
+        "10-growth-scaling-exit"
+      ]
+    },
+    {
+      "name": "billing-insurance-finance",
+      "description": "Insurance, billing, reimbursement, taxes, and financial management",
+      "posts": 1335,
+      "jsonl_size_mb": 2.84,
+      "md_size_mb": 1.14,
+      "topics": [
+        "03-insurance-billing-reimbursement",
+        "09-finance-taxes-accounting"
+      ]
+    },
+    {
+      "name": "marketing-acquisition",
+      "description": "Marketing strategies and client acquisition",
+      "posts": 1196,
+      "jsonl_size_mb": 2.63,
+      "md_size_mb": 1.08,
+      "topics": [
+        "04-marketing-client-acquisition",
+        "15-networking-community"
+      ]
+    },
+    {
+      "name": "operations-staffing",
+      "description": "Day-to-day operations, systems, and team management",
+      "posts": 1020,
+      "jsonl_size_mb": 2.29,
+      "md_size_mb": 0.93,
+      "topics": [
+        "05-operations-systems-tools",
+        "06-staffing-hiring-team"
+      ]
+    },
+    {
+      "name": "clinical-specialties",
+      "description": "Clinical practice, specialties, and continuing education",
+      "posts": 1046,
+      "jsonl_size_mb": 2.28,
+      "md_size_mb": 0.93,
+      "topics": [
+        "07-clinical-practice-specialties",
+        "14-continuing-education-ceus"
+      ]
+    },
+    {
+      "name": "legal-compliance",
+      "description": "Legal, compliance, regulations, and risk management",
+      "posts": 319,
+      "jsonl_size_mb": 0.71,
+      "md_size_mb": 0.29,
+      "topics": [
+        "08-legal-compliance-regulations"
+      ]
+    },
+    {
+      "name": "service-models",
+      "description": "Telehealth, mobile PT, and home health services",
+      "posts": 448,
+      "jsonl_size_mb": 0.77,
+      "md_size_mb": 0.3,
+      "topics": [
+        "12-telehealth-virtual-care",
+        "13-mobile-home-health"
+      ]
+    },
+    {
+      "name": "mindset-community",
+      "description": "Work-life balance, burnout prevention, and general advice",
+      "posts": 2853,
+      "jsonl_size_mb": 4.76,
+      "md_size_mb": 1.92,
+      "topics": [
+        "11-work-life-mindset-burnout",
+        "16-general-qa-advice"
+      ]
+    },
+    {
+      "name": "high-engagement-all-topics",
+      "description": "High-engagement discussions across all topics",
+      "posts": 2109,
+      "jsonl_size_mb": 5.62,
+      "md_size_mb": 2.34,
+      "topics": [
+        "all"
+      ]
+    }
+  ]
+}
