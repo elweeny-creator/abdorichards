@@ -1,0 +1,103 @@
+{
+  "generated": "2026-01-09T01:24:43.677760",
+  "total_posts": 9567,
+  "total_comments": 74894,
+  "date_range": {
+    "start": "2022-05-11 15:06:40",
+    "end": "2026-01-07 02:58:43"
+  },
+  "topics": {
+    "01-starting-your-practice": {
+      "name": "Starting Your Practice",
+      "count": 528,
+      "percentage": 5.52
+    },
+    "02-pricing-revenue-compensation": {
+      "name": "Pricing, Revenue & Compensation",
+      "count": 709,
+      "percentage": 7.41
+    },
+    "03-insurance-billing-reimbursement": {
+      "name": "Insurance, Billing & Reimbursement",
+      "count": 1190,
+      "percentage": 12.44
+    },
+    "04-marketing-client-acquisition": {
+      "name": "Marketing & Client Acquisition",
+      "count": 978,
+      "percentage": 10.22
+    },
+    "05-operations-systems-tools": {
+      "name": "Operations, Systems & Tools",
+      "count": 577,
+      "percentage": 6.03
+    },
+    "06-staffing-hiring-team": {
+      "name": "Staffing, Hiring & Team",
+      "count": 443,
+      "percentage": 4.63
+    },
+    "07-clinical-practice-specialties": {
+      "name": "Clinical Practice & Specialties",
+      "count": 801,
+      "percentage": 8.37
+    },
+    "08-legal-compliance-regulations": {
+      "name": "Legal, Compliance & Regulations",
+      "count": 319,
+      "percentage": 3.33
+    },
+    "09-finance-taxes-accounting": {
+      "name": "Finance, Taxes & Accounting",
+      "count": 145,
+      "percentage": 1.52
+    },
+    "10-growth-scaling-exit": {
+      "name": "Growth, Scaling & Exit",
+      "count": 113,
+      "percentage": 1.18
+    },
+    "11-work-life-mindset-burnout": {
+      "name": "Work-Life Balance, Mindset & Burnout",
+      "count": 195,
+      "percentage": 2.04
+    },
+    "12-telehealth-virtual-care": {
+      "name": "Telehealth & Virtual Care",
+      "count": 63,
+      "percentage": 0.66
+    },
+    "13-mobile-home-health": {
+      "name": "Mobile PT & Home Health",
+      "count": 385,
+      "percentage": 4.02
+    },
+    "14-continuing-education-ceus": {
+      "name": "Continuing Education & CEUs",
+      "count": 245,
+      "percentage": 2.56
+    },
+    "15-networking-community": {
+      "name": "Networking & Community",
+      "count": 218,
+      "percentage": 2.28
+    },
+    "16-general-qa-advice": {
+      "name": "General Q&A & Advice",
+      "count": 2658,
+      "percentage": 27.78
+    }
+  },
+  "engagement_summary": {
+    "high": 2109,
+    "medium": 3037,
+    "low": 4421
+  },
+  "yearly_breakdown": {
+    "2026": 31,
+    "2025": 2387,
+    "2024": 2622,
+    "2023": 2781,
+    "2022": 1746
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "generated": "2026-01-09",
+  "source": "Uncaged Clinician Facebook Group",
+  "total_posts": 9567,
+  "total_comments": 74894,
+  "date_range": {
+    "start": "2022-05-11",
+    "end": "2026-01-07"
+  },
+  "yearly_breakdown": {
+    "2022": 1746,
+    "2023": 2781,
+    "2024": 2622,
+    "2025": 2387,
+    "2026": 31
+  },
+  "topic_distribution": {
+    "01-starting-your-practice": {"count": 528, "percentage": 5.52},
+    "02-pricing-revenue-compensation": {"count": 709, "percentage": 7.41},
+    "03-insurance-billing-reimbursement": {"count": 1190, "percentage": 12.44},
+    "04-marketing-client-acquisition": {"count": 978, "percentage": 10.22},
+    "05-operations-systems-tools": {"count": 577, "percentage": 6.03},
+    "06-staffing-hiring-team": {"count": 443, "percentage": 4.63},
+    "07-clinical-practice-specialties": {"count": 801, "percentage": 8.37},
+    "08-legal-compliance-regulations": {"count": 319, "percentage": 3.33},
+    "09-finance-taxes-accounting": {"count": 145, "percentage": 1.52},
+    "10-growth-scaling-exit": {"count": 113, "percentage": 1.18},
+    "11-work-life-mindset-burnout": {"count": 195, "percentage": 2.04},
+    "12-telehealth-virtual-care": {"count": 63, "percentage": 0.66},
+    "13-mobile-home-health": {"count": 385, "percentage": 4.02},
+    "14-continuing-education-ceus": {"count": 245, "percentage": 2.56},
+    "15-networking-community": {"count": 218, "percentage": 2.28},
+    "16-general-qa-advice": {"count": 2658, "percentage": 27.78}
+  },
+  "engagement_summary": {
+    "high": {"count": 2109, "percentage": 22.04, "criteria": "10+ reactions OR 15+ comments"},
+    "medium": {"count": 3037, "percentage": 31.75, "criteria": "5+ reactions OR 5+ comments"},
+    "low": {"count": 4421, "percentage": 46.21, "criteria": "Below medium thresholds"}
+  },
+  "upload_packs": {
+    "business-foundations": {"posts": 1350, "size_mb": 2.99},
+    "billing-insurance-finance": {"posts": 1335, "size_mb": 2.84},
+    "marketing-acquisition": {"posts": 1196, "size_mb": 2.63},
+    "operations-staffing": {"posts": 1020, "size_mb": 2.29},
+    "clinical-specialties": {"posts": 1046, "size_mb": 2.28},
+    "legal-compliance": {"posts": 319, "size_mb": 0.71},
+    "service-models": {"posts": 448, "size_mb": 0.77},
+    "mindset-community": {"posts": 2853, "size_mb": 4.76},
+    "high-engagement-all-topics": {"posts": 2109, "size_mb": 5.62}
+  },
+  "data_quality": {
+    "valid_posts": 9567,
+    "error_items": 2,
+    "completeness_rate": 99.98,
+    "posts_with_comments": 7605,
+    "posts_with_attachments": 1491
+  }
+}
